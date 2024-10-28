@@ -29,4 +29,4 @@ Data was collected from reliable financial sources covering IPOs listed on major
 - Sectors that saw the **highest interest** and **strongest performance**.
 - Subscription rates revealed investor trends and preferences for specific sectors.
 
-# Tahnk you.
+# Thank you.

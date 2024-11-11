@@ -18,12 +18,6 @@ Data was collected from reliable financial sources covering IPOs listed on major
 - **Excel**: Data cleaning and pre-processing.
 - **Power Query**: For data transformation and shaping within Power BI.
 
-## 📁 **File Structure**
-- **Data**: Contains the raw CSV files used for analysis.
-- **Dashboard**: The `.pbix` Power BI file with the completed dashboard.
-- **Screenshots**: Images of key visuals from the dashboard.
-
-
 ## 📈 **Key Insights**
 - Identified **top-performing IPOs** by percentage gains post-listing.
 - Sectors that saw the **highest interest** and **strongest performance**.
